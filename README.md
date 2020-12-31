@@ -5,6 +5,9 @@ A year long commitment to contribute something to the PyTorch community. (-- Com
 - *Jan 1 2021:* Explore Sphinx Gallery (Day 1) [TBD]. 
 - *Jan 2 2021:* Explore Sphinx Gallery (Day 2) [TBD]. 
 - *Jan 3 2021:* Explore Sphinx Gallery (Day 3) [TBD]. 
+- *Jan x 2021:* Explore Jit Scripting(Day 1), Implement and Benchmark for classification. [TBD]. 
+- *Jan x 2021:* Explore Jit Scripting(Day 2), How does JIT work? [TBD]. 
+- *Jan x 2021:* Explore Jit Scripting(Day 3), Advantages and Disadvantages [TBD]. 
 - *Dec 31 2021:* **Ending as a contributor to PyTorch [TBD]**
 
 

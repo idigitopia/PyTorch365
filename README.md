@@ -15,5 +15,6 @@ A year long commitment to contribute something to the PyTorch community. (-- Com
 
 (Outline of Motivations for the trajectory so chosen. All Comments and Suggestions are most Welcome). 
 - Tutorials are meant to be the first place to start on any repo. Better understand how the tutorials/documentation is generated beforehand. PyTorch uses sphinx-gallery for its tutorials. Hence: (Step 1 - Explore Sphinx Gallery)
+- With frmeworks like JAX getting more popular, it is interesting to understand how jit scirpting works with PyTorch. 
 
 

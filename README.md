@@ -1,9 +1,9 @@
 # PyTorch365
 
-A year long commitment to contribute something to the PyTorch community. (-- Coming Soon --)
+A year long commitment to contribute something to the PyTorch community.
 - *Jan 1 2021:* **Starting with working Knowledge of PyTorch**
-- *Jan 1 2021:* Explore Sphinx Gallery (Day 1) [TBD]. 
-- *Jan 2 2021:* Explore Sphinx Gallery (Day 2) [TBD]. 
+- *Jan 1 2021:* Explore Sphinx (Day 1). 
+- *Jan 2 2021:* Explore Sphinx Gallery (Extension of Sphinx) (Day 2). 
 - *Jan 3 2021:* Explore Sphinx Gallery (Day 3) [TBD]. 
 - *Jan x 2021:* Explore Jit Scripting(Day 1), Implement and Benchmark for classification. [TBD]. 
 - *Jan x 2021:* Explore Jit Scripting(Day 2), How does JIT work? [TBD]. 
